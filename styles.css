@@ -1,0 +1,33 @@
+body{
+    text-align: center;
+    background-color: blueviolet;
+}
+
+#image{
+    border: 2px solid;
+    border-color: black;
+
+}
+
+#card{
+    visibility: hidden;
+}
+
+img{
+    border: 2px solid;
+    border-color: black;
+}
+
+
+#button{
+    padding: 20px;
+    background-color: transparent;
+    transition: all 0.3s ease-in-out;
+}
+
+#button:hover{
+    padding: 20px;
+    background-color: black;
+    color: white;
+    
+}
